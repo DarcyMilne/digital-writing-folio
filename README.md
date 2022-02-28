@@ -6,7 +6,7 @@
  - [x] Create account
  - [x] Do hello world thing
 
-### QUestions
+### Questions
 
 #### What tools (or techniques) do you use to write?
 
