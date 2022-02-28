@@ -1,2 +1,2 @@
 # *digital-writing-folio*
-[Readings](Readings.md)
+[Readings](readings.md)
