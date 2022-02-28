@@ -16,7 +16,13 @@ Mainly fiction writing. Specifically short stories.
 
 I use MS Word 
 
+note app on my phone to get ideas down
+
+hardest writing app
+
 
 #### How do these tools shape the what you write (e.g., constrain the way you write or facilitate your writing)?
 
-I suppose that Word constrains you to writing in a somewhat linear way and makes it difficult to experiment with the layout of your writing. Though it facilitates my writing in that it is very easy to edit and has so far been exactly what I have needed it to be. 
+
+
+I suppose that Word constrains you to writing in a somewhat linear way and makes it difficult to experiment with the layout of your writing. Though it facilitates my writing in that it is very easy to edit and has so far been exactly what I have needed it to be. It's very accessable 
