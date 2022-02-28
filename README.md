@@ -1,6 +1,6 @@
 # *digital-writing-folio*
 [Readings](readings.md)
-[exercises](exercises)
+[Exercises](Exercises)
 
  - [x] Create account
  - [x] Do hello world thing
