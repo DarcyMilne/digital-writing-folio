@@ -42,3 +42,13 @@ Electronic literature differs from print literature as it is literature that use
 ### What are some of the qualities of electronic literature?
 
 Interactive, kinetic, aural, motion - these are all qualities of digital literature that are fundamental values of the medium.  What is it doing materially, why is that meaningful? Electronic literature is more often second person. As it is interactive the character is often you. What do YOU do next, opposed to what do THEY or I do next. Infiniteness is another quality of some works, e.g. *Torako Gorge*
+
+### Taroko Gorge(s) [*Taroko Garry*](https://nickm.com/taroko_gorge/taroko_gary/)
+
+### What aspects of the remix are the same?
+
+
+### What aspects are different?
+The stanzas are different. Whilst *Tarako Gorge* has stanzas of 1, 2, 3 and 4 lines, Leonardo Flores's is made up of stanzas of 1, 3 and 4 lines.
+
+### Is the remix successful? Why? Why not?
