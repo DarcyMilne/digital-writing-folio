@@ -30,4 +30,15 @@ I suppose that Word constrains you to writing in a somewhat linear way and makes
 
 ## Week 2
 
+
+
 ### How is electronic literature different from print literature?
+
+Electronic literature differs from print literature as it is literature that uses the digital format in ways that the print format is unable. It is not simply literature created on an electronic platform -  as these days that is almost every form of literature - it must instead use its digital basis to create art that would be unable to - inconceivable to humans before computers. Whereas print literature relies on the strength of the prose, digital literature reies on the strength of its...
+
+"The scaffolding is part of the writing"
+
+
+### What are some of the qualities of electronic literature?
+
+Interactive, kinetic, aural, motion - these are all qualities of digital literature that are fundamental values of the medium. It is a medium that 
