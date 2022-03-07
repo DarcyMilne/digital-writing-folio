@@ -46,9 +46,14 @@ Interactive, kinetic, aural, motion - these are all qualities of digital literat
 ### Taroko Gorge(s) [*Taroko Garry*](https://nickm.com/taroko_gorge/taroko_gary/)
 
 ### What aspects of the remix are the same?
+They are at the same ( or very similar pace). Whilst some of the remixes I have seen go much faster, or much slower, *Tarako Garry* goes at a the same calming, readable pace as *Tarako Gorge*.
 
 
 ### What aspects are different?
-The stanzas are different. Whilst *Tarako Gorge* has stanzas of 1, 2, 3 and 4 lines, Leonardo Flores's is made up of stanzas of 1, 3 and 4 lines.
+The stanzas are different. Whilst *Tarako Gorge* has stanzas of 1, 2, 3 and 4 lines, Leonardo Flores's is made up of stanzas of 1, 3 and 4 lines. Many more words as well.
+
+*Tarako Garry* also features a picture depicting the area in which the poem is set. Whilst Tarako Gorge, for those like me who did not know of its existance before experiencing the poem, is left entirely up to the algorithm to generate its depictions.
 
 ### Is the remix successful? Why? Why not?
+
+I believe it is successful. Although it is very similar, it is visually more appealing than *Tarako Gorge* and the adition of a picture gives the reader a basis for the poem. It is not too fast or slow like some of the other remixes, and is a soothing work similar to its predecessor. 
