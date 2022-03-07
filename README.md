@@ -3,6 +3,8 @@
 
 [Exercises](Exercises)
 
+[test](test.md)
+
  - [x] Create account
  - [x] Do hello world thing
 
