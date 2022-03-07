@@ -1,7 +1,7 @@
 # *digital-writing-folio*
 [Readings](readings.md)
 
-[Exercises](Exercises)
+[Exercises](Exercises.md) 
 
 [test](test.md)
 
