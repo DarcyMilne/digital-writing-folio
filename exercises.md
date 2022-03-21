@@ -57,3 +57,7 @@ The stanzas are different. Whilst *Tarako Gorge* has stanzas of 1, 2, 3 and 4 li
 ### Is the remix successful? Why? Why not?
 
 I believe it is successful. Although it is very similar, it is visually more appealing than *Tarako Gorge* and the adition of a picture gives the reader a basis for the poem. It is not too fast or slow like some of the other remixes, and is a soothing work similar to its predecessor. 
+
+### We Walk to You Remix
+
+[We Engage in Violent Acts Against You](https://aquatic-flame-balmoral.glitch.me)
