@@ -63,3 +63,9 @@ I believe it is successful. Although it is very similar, it is visually more app
 [We Engage in Violent Acts Against You](https://aquatic-flame-balmoral.glitch.me)
 
 A fun little remix of We Walk to You
+
+# Proposals
+Slides
+Documentation of proposal
+Length of proposed work
+Outline of work
