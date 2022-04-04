@@ -79,4 +79,4 @@ Amiral Jota: Lost Pig
 
 [Tiny Tools](https://tinytools.directory/)
 
-[Ditherit](https://ditherit.com/)
+[Ditherit](https://ditherit.com/) - A way of making retro images - Possibly useful for Twine if I add images and go for this 'retro' aesthetic.
