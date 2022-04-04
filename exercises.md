@@ -66,6 +66,9 @@ A fun little remix of We Walk to You
 
 # Proposals
 Slides
+
 Documentation of proposal
+
 Length of proposed work
+
 Outline of work
