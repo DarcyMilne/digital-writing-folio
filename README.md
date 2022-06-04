@@ -1,5 +1,5 @@
 # *digital-writing-folio*
-[Readings](readings.md)
+[Reflections](reflections.md)
 
 [Exercises](exercises.md)
 
