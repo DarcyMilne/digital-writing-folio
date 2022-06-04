@@ -9,6 +9,16 @@ Project ideas:
 -	Horror piece that used pictures in twine to ‘spook’ the player.
 -	A piece set in one location that slowly changes as the player progresses in the story.
 
+
+Reflection on the class:
+
+To begin the semester, I don’t think I could have told you what ‘digital writing’ means. I would have maybe thought of Zork, having played that as a kid, and possibly could have pointed you towards something like Disco Elysium, a mostly text based, Lynchian detective game, but would have been unsure if either of these fit the ‘digital writing’ description. I would now define digital fiction as any story – specifically but not exclusively text based – created via digital means. I don’t *think* that I would describe something like Skyrim digital fiction, but something between Skyrim and Zork I would be hard pressed to not group it in with the digital writing space. It can be a fine line between interactive fiction and gaming. Perhaps they are one in the same, but that’s not the case to me.
+
+Early in the class, it was really interesting to read through the many kinds of works of digital fiction and explore how varied the medium is. From Twine, to Bitsy, to text adventures, to computer generated poetry, the different programs/coders all used the digital space in unique and exciting ways. What I think is unique to this digital medium is how in almost all other arts, the result of the finished product is what matters. However, in the digital space this is not necessarily the case, as in many cases the code is mightier than the pen – or the impressiveness of the code is more important than the readability or functionality of the piece as seen from the user’s side. I understood this at the start of the semester, in the same sense that I understand how a difficult kick in footy is impressive to someone that plays football, but is unimpressive to somebody that doesn’t know the basics of the sport. What I mean by this is that when reading/playing/viewing some digital fiction I could understand that a piece was impressive in its creation or execution, but I was not impressed on a more personal level. Though, as the semester went on, and I became more accustomed to the medium and started to create pieces of my own, I quickly begun to see why digital writers and their peers are often more impressed by the technical side of digital writing.
+
+I think that in another life, or in the future, I will learn some kind of coding language as the satisfaction I get from slowly figuring out how to do what kept me engaged with my twine piece in a way that would not have happened if it was a simple piece of fiction. This course certainly heightened my interest in the digital space, and I will be keen to persue this outside of university and get a better idea of not just interactive fiction, but the realm of coding and its artistic capabilities as a whole. 
+
+
 Reflection on my final piece created on Twinery: *The Bar*
 
 “The goods”:
