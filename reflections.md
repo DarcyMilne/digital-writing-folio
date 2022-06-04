@@ -25,5 +25,9 @@ o	Using cycling links to make a permanent change on the story (e.g.  is this cha
 -	Although I knew this going in, it became a bit overwhelming at times with how much work twine can be to use. It took several minutes/hours of trial and error for each unique implementation of twine code to be effectively used. The ‘Twinery Cookbook’ was difficult to navigate at times, so it was usually easiest to go through the forums looking for help, but even this proved difficult. 
 -	My idea of giving the player different dialogue options for each number of “drinks” they had had was really, really time consuming. Not just because I had to write the dialogue, but because I had to code in each dialogue so that it would not show up unless player had x number of drinks. I then had to playtest through all of this dialogue to make sure it didn’t show up at unwanted times, or in an unwanted format.
 
+I’m not much of a planner when I write – I much prefer the write now think later approach. Though, in the case of a twine piece, I can retrospectively say that planning would have been a huge help to the story. 
+I struggled with writing the conclusion of the piece as I was constantly re-reading it, realising it needed more depth, and then adding more and more branches to the piece. This then elongated the amount of work I had to do at the end of the piece and was a vicious cycle until I decided that enough was enough and I had to put up with a lack of depth if it meant that the story would finish. An example of this was me realising that the $drinks macro didn’t have much of a role in the story besides a few lines of aesthetic dialogue, so I decided to make use of it and added a lot more function behind the macro. This both added to the depth of the story and added to the depth of my insanity as it came time to submit the story.
+
+
 
 ![image](https://user-images.githubusercontent.com/100544419/171981208-73a99395-a45a-4ccb-a11b-ffa1cd6d1c63.png)
