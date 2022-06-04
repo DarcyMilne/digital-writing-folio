@@ -23,4 +23,6 @@ o	Using cycling links to make a permanent change on the story (e.g.  is this cha
 “The difficults”:
 -	Although I knew this going in, it became a bit overwhelming at times with how much work twine can be to use. It took several minutes/hours of trial and error for each unique implementation of twine code to be effectively used. The ‘Twinery Cookbook’ was difficult to navigate at times, so it was usually easiest to go through the forums looking for help, but even this proved difficult. 
 -	My idea of giving the player different dialogue options for each number of “drinks” they had had was really, really time consuming. Not just because I had to write the dialogue, but because I had to code in each dialogue so that it would not show up unless player had x number of drinks. I then had to playtest through all of this dialogue to make sure it didn’t show up at unwanted times, or in an unwanted format.
+
+
 ![image](https://user-images.githubusercontent.com/100544419/171981208-73a99395-a45a-4ccb-a11b-ffa1cd6d1c63.png)
