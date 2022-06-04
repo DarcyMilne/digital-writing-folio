@@ -19,6 +19,19 @@ Early in the class, it was really interesting to read through the many kinds of 
 I think that in another life, or in the future, I will learn some kind of coding language as the satisfaction I get from slowly figuring out how to do what kept me engaged with my twine piece in a way that would not have happened if it was a simple piece of fiction. This course certainly heightened my interest in the digital space, and I will be keen to persue this outside of university and get a better idea of not just interactive fiction, but the realm of coding and its artistic capabilities as a whole. 
 
 
+Project ideas:
+
+-	Noiry detective piece set in a Chicago-esque Melbourne.
+-	Piece framed entirely in question form e.g.
+    -	Did the player enter the room?
+    -	Did the player wonder whether the man was lying?
+    -	Did the player think the man was telling the truth?
+
+-	Horror piece that used pictures in twine to ‘spook’ the player.
+-	A piece set in one location that slowly changes as the player progresses in the story.
+
+
+
 Reflection on my final piece created on Twinery: *The Bar*
 
 “The goods”:
