@@ -2,9 +2,9 @@ Project ideas:
 
 -	Noiry detective piece set in a Chicago-esque Melbourne.
 -	Piece framed entirely in question form e.g.
-  -	Did the player enter the room?
-  -	Did the player wonder whether the man was lying?
-  -	Did the player think the man was telling the truth?
+    -	Did the player enter the room?
+    -	Did the player wonder whether the man was lying?
+    -	Did the player think the man was telling the truth?
 
 -	Horror piece that used pictures in twine to ‘spook’ the player.
 -	A piece set in one location that slowly changes as the player progresses in the story.
