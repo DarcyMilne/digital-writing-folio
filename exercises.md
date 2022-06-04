@@ -20,7 +20,7 @@ hardest writing app
 
 I suppose that Word constrains you to writing in a somewhat linear way and makes it difficult to experiment with the layout of your writing. Though it facilitates my writing in that it is very easy to edit and has so far been exactly what I have needed it to be. It's very accessable, portable (in that I can send it across computers/phones), and therefore useful when sending it to a peer for editing  
 
-## Week 2
+## Electronic Literature:
 
 
 ### How is electronic literature different from print literature?
