@@ -63,6 +63,10 @@ This piece was my first run at Twinery that includes the addition of a picture. 
 
 [The Red Door - A Twinery Test](https://genuine-platypus-b3dedd.netlify.app/)
 
+### Text based interactive fiction test run
+
+[Test](https://symphonious-malasada-828727.netlify.app/)
+
 # Proposals
 Slides
 
