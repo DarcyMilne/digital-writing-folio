@@ -57,6 +57,12 @@ I believe it is successful. Although it is very similar, it is visually more app
 
 A fun little remix of *We Walk to You* 
 
+### Twinery test run
+
+This piece was my first run at Twinery that includes the addition of a picture. It was fun to figure out how to add pictures to Twine, but I decided that with my final piece it would detract from the atmosphere that I was trying to achieve. I've left the picture in this piece as an example of how I could impliment it in future projects.
+
+[The Red Door - A Twinery Test](https://genuine-platypus-b3dedd.netlify.app/)
+
 # Proposals
 Slides
 
