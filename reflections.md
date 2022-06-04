@@ -18,11 +18,7 @@ Reflection on my final piece created on Twinery: *The Bar*
         -	Giving the player dialogue options based on what they’ve done and how many drinks they’ve had
         -	Changing the background based on what the player is doing
         -	Using cycling links to make a permanent change on the story (e.g.  is this character a he, she or they?)
-        -	
-o	
-o	
-o	
-o	
+     
 -	It was fun being able to create a story that didn’t have a defined way to read it, as I’ve only ever created linear works in the past.
 -	I liked how simply you could create an atmosphere within a twine piece. Although I didn’t use pictures or sound, I found that changing the background, or colour of the text, was a subtle change that didn’t distract from the story.
 
