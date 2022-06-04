@@ -8,7 +8,7 @@ o	Did the player think the man was telling the truth?
 -	Horror piece that used pictures in twine to ‘spook’ the player.
 -	A piece set in one location that slowly changes as the player progresses in the story.
 
-Reflection on twine piece:
+Reflection on my final piece created on Twinery: *The Bar*
 
 “The goods”:
 -	I was very engaged in figuring out all the different things that twine was capable of like:
