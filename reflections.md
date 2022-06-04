@@ -13,6 +13,7 @@ Reflection on my final piece created on Twinery: *The Bar*
 
 “The goods”:
 -	I was very engaged in figuring out all the different things that twine was capable of like:
+-	
         -	being able to count items (or drinks in my story)
         -	Opening and closing paths based on what the player has done (e.g. this path won’t open unless the player has done this and that)
         -	Giving the player dialogue options based on what they’ve done and how many drinks they’ve had
